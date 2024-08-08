@@ -1,2 +1,2 @@
-#Proyecto de introduccion a Figma 
-##introduccion : 
+# Proyecto de introduccion a Figma 
+**introduccion**: 
