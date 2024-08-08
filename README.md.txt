@@ -1,8 +1,12 @@
 #Proyecto de introduccion a Figma 
 introduccion : 
-# Figma para Visual Studio Code
 
-Figma para Visual Studio Code es una extensión que permite a los desarrolladores integrar y utilizar diseños de Figma directamente dentro de su entorno de desarrollo. Esta integración facilita la colaboración entre diseñadores y desarrolladores, haciendo que el flujo de trabajo sea más eficiente.
+NOMBRE DEL MIEMBRO 1: Luciana Ayelen Rodriguez
+Rol: Investigar las funcionalidades principales de 
+
+# Figma 
+
+Figma   Esta integración facilita la colaboración entre diseñadores y desarrolladores, haciendo que el flujo de trabajo sea más eficiente.
 
 ## Funcionalidades Principales
 
@@ -33,3 +37,6 @@ Genera código CSS para elementos seleccionados en Figma, simplificando la imple
 2. Ve a la extensión de marketplace (`Ctrl+Shift+X`).
 3. Busca "Figma para Visual Studio Code".
 4. Haz clic en "Instalar".
+
+NOMBRE DEL MIEMBRO : Valdez Herrera Facundo Tomás
+Rol: Investigacion sobre los casos de uso de figma
